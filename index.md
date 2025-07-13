@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Shashank Naik | IT Portfolio</title>
+  <title>Welcome To My Website</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -117,7 +117,7 @@
     </ul>
   </section>
 
-  <section id="contact">
+  <section id="contact" style="text-align: center;">
     <h2>Contact</h2>
     <p>Email: <a href="mailto:Naik.shashank697@gmail.com">Naik.shashank697@gmail.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/shashank-k-naik-38527b157/" target="_blank">My LinkedIn</a></p>
