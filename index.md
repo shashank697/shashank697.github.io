@@ -103,7 +103,7 @@
     <p>I am an IT Technician with years of expertise. I have consistently delivered exceptional results, achieving 100% customer satisfaction with my support tickets. My hybrid IT Support and Operations Technician role includes extensive experience with Jira Cloud, Microsoft Azure, M365 Administration, ERP, and LMS systems, along with account creation and management via Active Directory.</p>
     <p>I have a strong background in the education industry and managed IT support and operations for six college campuses, both onsite and remotely. I also have extensive experience in analyzing trends and mitigating issues to improve operational efficiency. I work closely with L1, L2, and L3 teams to resolve technical issues.</p>
     <p>As a team leader, I take pride in helping my team grow, sharing my knowledge, and fostering a collaborative environment to ensure our collective success. I’m dedicated to leveraging the latest technology to streamline operations and enhance customer experience.</p>
-    <a class="button" href="Shashank-Naik-Resume.pdf" download>📄 Download My Resume</a>
+    <a class="button" href=" https://drive.google.com/file/d/1Tg6n0f6sK-kFQGc-WQ654Y6Fbs-_3qn4/view?usp=sharing " download>📄 Download My Resume</a>
   </section>
 
   <section id="skills">
