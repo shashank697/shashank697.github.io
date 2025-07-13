@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -113,7 +112,7 @@
     <ul>
       <li>Microsoft Azure & M365 Administration</li>
       <li>Active Directory & Entra ID</li>
-      <li>Ticketing Systems (Jira, Freshdesk)</li>
+      <li>Ticketing Systems (Jira, Freshdesk, Confluence)</li>
       <li>Hardware & Software Troubleshooting</li>
       <li>Remote and Onsite Support</li>
     </ul>
