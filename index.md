@@ -9,7 +9,7 @@
       margin: 0;
       padding: 0;
       line-height: 1.6;
-      background-color: #f4f4f4;
+      background-color: #43b8b1;
       color: #333;
     }
 
@@ -96,7 +96,6 @@
   </nav>
 </header>
 
-<img src="profile.jpg" alt="Shashank Naik" class="profile-pic">
 
 <main>
   <section id="about">
