@@ -88,7 +88,7 @@
 
 <header>
   <h1>Shashank Naik</h1>
-  <p>IT Technician | IT Operations & Customer-Centric Leader</p>
+  <p>IT Operations & Customer-Centric Leader</p>
   <nav>
     <a href="#about">About</a>
     <a href="#skills">Skills</a>
